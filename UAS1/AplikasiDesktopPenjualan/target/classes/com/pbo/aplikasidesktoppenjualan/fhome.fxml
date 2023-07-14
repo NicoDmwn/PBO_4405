@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fxbackground-color: #fef1e4;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.pbo.aplikasidesktoppenjualan.HomeController">
+    <children>
+        <Label layoutX="140.0" layoutY="50.0" text="Home">
+            <font>
+                <Font name="System Bold" size="22.0" />
+            </font></Label>
+      <Label layoutX="140.0" layoutY="120.0" text="Project UAS PBO">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="140.0" layoutY="150.0" text="Nico Darmawan - A11.2021.13434">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="140.0" layoutY="180.0" text="Genta Putra Agya - A11.2021.13499">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>
